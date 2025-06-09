@@ -142,5 +142,5 @@ npm run import:products  # Runs importProducts.js to populate products collectio
 ```
 
 
-
+### Managed By Utkarsh Shukla
 
